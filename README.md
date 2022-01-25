@@ -31,12 +31,19 @@ too complicated. Current plan is as follows: temperature/humidity/barometric pre
 
 ## Raspberry Pi and sensors
 1. ... define steps here urls to visit, how to verify the service is configured and working...
+2. https://blog.inkdrop.app/a-simple-room-air-quality-visualizer-using-raspberry-pi-and-golang-46e6464b2e8d
+3. https://willj.net/posts/humidity-temperature-and-pressure-sensing-on-a-raspberry-pi-with-go/
+4. https://www.jeremymorgan.com/tutorials/go/get-temperature-raspberry-pi-go/
+5. https://periph.io/
+6. 
 
 ## Database
 1. ... define steps here urls to visit, how to verify the service is configured and working...
+2. https://firebase.google.com/products/firestore
 
 ## Apollo GraphQL
 1. ... define steps here urls to visit, how to verify the service is configured and working...
+2. https://medium.com/@lukepighetti/yes-you-can-query-firebase-with-graphql-e79a45990f22
 
 ## Grafana
 1. ... define steps here urls to visit, how to verify the service is configured and working...
