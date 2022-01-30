@@ -50,6 +50,7 @@ too complicated. Current plan is as follows: temperature/humidity/barometric pre
 ## Apollo GraphQL
 1. ... define steps here urls to visit, how to verify the service is configured and working...
 2. https://medium.com/@lukepighetti/yes-you-can-query-firebase-with-graphql-e79a45990f22
+3. https://www.howtographql.com/graphql-go/0-introduction/
 
 ## Grafana
 1. ... define steps here urls to visit, how to verify the service is configured and working...
